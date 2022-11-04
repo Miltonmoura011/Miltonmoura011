@@ -18,4 +18,5 @@
 <img align="center" alt="Oracle" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 </div>
 
-Apaixonado por dados, sempre buscando mais conhecimento estudante de banco de dados
+
+Apaixonado por dados, sempre buscando mais conhecimento! Estudante de banco de dados!
